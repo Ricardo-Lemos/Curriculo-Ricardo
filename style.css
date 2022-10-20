@@ -1,0 +1,30 @@
+body {
+    background: white;
+}
+
+#title, .subtitle, .post_title{
+    color: black
+}
+
+.subtitle {
+    font-style: italic;
+}
+
+.post_title{
+    border: 2px solid black;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.post_contact{
+    border: 2px solid black;
+    padding: 5px;
+    margin-bottom: 5px;
+}
+
+.post_certificados{
+    font-style: italic;
+    color: red;
+    border: 5px solid black;
+}
+
